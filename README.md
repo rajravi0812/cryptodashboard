@@ -1,6 +1,15 @@
 # Getting Started with Create React App
+used Framework/Dependencies:
+ReactJs
+React-Redux
+React-thunk
+Tailwind Css
+Chart js
+React-Chartjs-2
+Coingecko API
+Axios
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with tailwind css and used command npm create-react-app cryptodashboard
 
 ## Available Scripts
 
